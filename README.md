@@ -4,14 +4,14 @@ Well managed architecture for a startup project
 # includes
 . Moduler based approach
 
-.Multiple layouts management
+. Layout Module for Multiple layouts management
 
-.lazyloading of modules
+. lazyloading of modules
 
 # following modules are included
 . Angular-Material, 
 
-. Angular-Flex Layout Module, 
+. Angular-Flex, 
 
 . Token based Authentication
 
