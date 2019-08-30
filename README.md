@@ -6,7 +6,7 @@ Moduler based approach
 Multiple layouts management
 lazyloading of modules
 
-#following modules are included
+# following modules are included
 Angular-Material, 
 Angular-Flex Layout Module, 
 Token based Authentication
